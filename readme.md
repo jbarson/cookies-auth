@@ -2,11 +2,11 @@
 
 ## Agenda
 
-- [] What is a cookie?
-- [] Why Cookies?
-- [] Reading & Setting cookies
-- [] Render pages with favorite animal
-- [] Register / Login user with email and password
+- [ ] What is a cookie?
+- [ ] Why Cookies?
+- [ ] Reading & Setting cookies
+- [ ] Render pages with favorite animal
+- [ ] Register / Login user with email and password
 
 ### HTTP and Cookies
 * **HTTP** is a stateless protocol which means that the participants are not required to remember any previous communication
